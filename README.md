@@ -1,4 +1,4 @@
-# DS-GA1008_Final_Competition
+# Video Frame Prediction & Image Segmentation Using Generative Adversarial Network & U-Net
 
 ## Overview
 
